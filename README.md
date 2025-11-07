@@ -1,5 +1,4 @@
-[comment]: <> (OPCIONAL: Um banner gráfico. Fica muito profissional.)
-[comment]: <> (Ela pode criar um no 'canva.com' (tamanho 1280x400) e fazer upload para o GitHub. Depois, basta colocar o link na tag 'img' abaixo.)
+
 <p align="center">
   <h1 align="center">Olá, eu sou a Ellen Souto! 👋</h1>
   <h3 align="center">Estatística e Analista de Dados</h3>
@@ -46,11 +45,10 @@
 
 ---
 
-[comment]: <> (Secção de Estatísticas continua oculta. Quando ela quiser reativar, basta apagar o ''.)
-[comment]: <> (Também adicionei tags de alinhamento aqui para quando for ativado.)
+
 <h3 align="center">📫 Como me encontrar</h3>
 
-[comment]: <> (Esta é a maior melhoria visual! Substituímos os links de texto por emblemas clicáveis.)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">
