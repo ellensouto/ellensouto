@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Sou uma profissional de Estatística apaixonada por transformar dados em insights e soluções. 
+  Sou uma profissional de Estatística. 
   <br> 
   O meu objetivo é aplicar métodos estatísticos e ferramentas de programação para resolver problemas complexos e fundamentar decisões estratégicas.
 </p>
